@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--MARGIN & PADDING-->
+    <dimen name="space_quarter">2dp</dimen>
+    <dimen name="space_half">4dp</dimen>
+    <dimen name="space_xhalf">6dp</dimen>
+    <dimen name="space">8dp</dimen>
+    <dimen name="spacex">12dp</dimen>
+    <dimen name="spacexx">14dp</dimen>
+    <dimen name="space_double">16dp</dimen>
+    <dimen name="space_xdouble">20dp</dimen>
+    <dimen name="space_triple">24dp</dimen>
+    <dimen name="space_quadruple">32dp</dimen>
+    <dimen name="space_quintuple">40dp</dimen>
+    <dimen name="space_xtra">48dp</dimen>
+    <dimen name="space_xxtra">56dp</dimen>
+    <dimen name="space_xxxtra">64dp</dimen>
+    <dimen name="space_xtra_minus">-48dp</dimen>
+    <dimen name="margintop_xdpi">120dp</dimen>
+
+    <!--FONT-->
+    <dimen name="font_moretiny">8sp</dimen>
+    <dimen name="font_tiny">10sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_reg">14sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_xmedium">18sp</dimen>
+    <dimen name="font_big">20sp</dimen>
+    <dimen name="font_xbig">24sp</dimen>
+    <dimen name="font_xxbig">28sp</dimen>
+    <dimen name="font_xxxbig">32sp</dimen>
+    <dimen name="customTitle">14sp</dimen>
+    <dimen name="customEntry">18sp</dimen>
+
+    <!--SHIMMER-->
+    <dimen name="shimmer_font_width_small">60dp</dimen>
+    <dimen name="shimmer_font_width_medium">100dp</dimen>
+    <dimen name="shimmer_font_width_wide">140dp</dimen>
+
+</resources>

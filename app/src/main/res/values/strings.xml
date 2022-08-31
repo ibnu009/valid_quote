@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Valid Quote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_quote">Quote Kosong</string>
+    <string name="valid_quotes">Valid Quotes</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+</resources>
